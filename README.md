@@ -3,9 +3,7 @@
 ### Hi, I'm Diana👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ainsley-uu&show_icons=true&hide_border=true">
-**Ainsley-uu/Ainsley-uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I am a junior at Zhejiang University
 - 🌱 I’m currently learning Control Science and Engineering
